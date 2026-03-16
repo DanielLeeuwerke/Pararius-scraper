@@ -67,7 +67,7 @@ if __name__ == "__main__":
     # Replace these values with your email credentials and the URL you want to monitor
     url_to_monitor = "https://www.google.com/finance/quote/BTC-EUR?sa=X&ved=2ahUKEwjypOyP16-BAxXaiP0HHZNLBz0Q-fUHegQIFBAf"
     email_address = "studiozoeker@gmail.com"
-    email_password = "iggobgrpypajaugx"
+    email_password = "xxxx"
     smtp_server = "smtp.gmail.com"
     smtp_port = 465  # Update with your SMTP port
 
